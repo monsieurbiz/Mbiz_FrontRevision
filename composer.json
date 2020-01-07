@@ -1,0 +1,15 @@
+{
+  "name": "monsieurbiz/mbiz_frontrevision",
+  "description": "Magento 1 module to be able to force JS and CSS refresh on client side",
+  "type": "magento-module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Maxime Huran",
+      "email": "m.huran@monsieurbiz.com"
+    }
+  ],
+  "suggest": {
+    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency."
+  }
+}
