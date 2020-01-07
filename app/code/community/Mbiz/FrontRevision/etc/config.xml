@@ -19,6 +19,13 @@
                 </rewrite>
             </core>
         </models>
+        <blocks>
+            <page>
+                <rewrite>
+                    <html_head>Mbiz_FrontRevision_Block_Html_Head</html_head>
+                </rewrite>
+            </page>
+        </blocks>
     </global>
     <default>
         <dev>

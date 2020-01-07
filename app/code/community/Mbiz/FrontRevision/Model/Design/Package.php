@@ -70,9 +70,11 @@ class Mbiz_FrontRevision_Model_Design_Package extends Mage_Core_Model_Design_Pac
         return '';
     }
 
-
+    /**
+     * @return string
+     */
     private function getRevisionNumber()
     {
-        return Mage::getStoreConfig('dev/css_js_revision/revision_number');
+        return (string) Mage::getStoreConfig('dev/css_js_revision/revision_number');
     }
 }
