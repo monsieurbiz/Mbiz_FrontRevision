@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+/**
+ * This file is part of Mbiz_FrontRevision for Magento.
+ *
+ * @license MIT
+ * @author Maxime Huran <m.huran@monsieurbiz.com> <@MaximeHuran>
+ * @category Mbiz
+ * @package Mbiz_FrontRevision
+ * @copyright Copyright (c) 2020 Monsieur Biz (https://monsieurbiz.com)
+ */
+-->
+<config>
+    <modules>
+        <Mbiz_FrontRevision>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Mbiz_FrontRevision>
+    </modules>
+</config>
